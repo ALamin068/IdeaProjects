@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clock/Clock.iml" filepath="$PROJECT_DIR$/Clock/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Gen/Data Gen.iml" filepath="$PROJECT_DIR$/Data Gen/Data Gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Node/Node.iml" filepath="$PROJECT_DIR$/Node/Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1/Project1.iml" filepath="$PROJECT_DIR$/Project1/Project1.iml" />
+    </modules>
+  </component>
+</project>
